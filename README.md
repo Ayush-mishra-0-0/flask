@@ -9,3 +9,5 @@ Thanks
 
 To view this site live plz fork this repositories in your local system and and copy the link https://github.com/Ayush-mishra-0-0/blog_site.git in your editor(preferably 
 vs-code). 
+
+AYUSH KUMAR MISHRA
